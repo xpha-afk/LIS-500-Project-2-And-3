@@ -11,15 +11,15 @@ Key Elements
 
 Evaluation 20 pts 
 Design - 5 pts 
-• Original creative and not template-driven, basic.
-• Interactive, media-rich (images, video, audio, fonts, etc), 
-• Inclusive, clears accessibility checks in Web site design
-• CSS-driven design (no over-reliance on .JS and inline style-scripting) 
+1. Original creative and not template-driven, basic.
+2. Interactive, media-rich (images, video, audio, fonts, etc), 
+3. Inclusive, clears accessibility checks in Web site design
+4. CSS-driven design (no over-reliance on .JS and inline style-scripting) 
 
 Code - 5 pts — Clear and well-processed code scheme
-• with code 'comments' in the HTML 
-• external links, and no broken refs;
-• useful navigation and operational functions     
+1. with code 'comments' in the HTML 
+2. external links, and no broken refs;
+3. useful navigation and operational functions     
 
 Content — 10 pts  
-• Your writing, information and overall approach effectively engages with key ideas from readings, engages with ideas of intersectionality and implicit bias, and documents an original Tech Hero.
+1. Your writing, information and overall approach effectively engages with key ideas from readings, engages with ideas of intersectionality and implicit bias, and documents an original Tech Hero.
