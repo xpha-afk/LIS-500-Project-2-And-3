@@ -9,6 +9,8 @@ Key Elements
 4. A resource page for implicit bias, in the style of a 'Library Resource Guide page'. This should include some thoughts on the IBT, intersectionality, and implicit bias, with links and resources for people encountering these terms for the first time (Audience: Think first-year college students.)   
 5. A 'tech hero'.  A short bio and links to someone who is challenging norms within the tech space. It should be a person of color or ally who is providing leadership in advancing equity for race/class/gender in the United States. No CEOs from Google or Microsoft here; We've all heard of Ada Lovelace, Grace Hopper, and the other "Hidden Figures." — Find someone you know personally, or stretch yourself and profile someone who others are unlikely to know because they're not in the news everyday. Need some ideas? Go to peopleofcolorintech.comLinks to an external site.. (500 word max profile with useful links).
 
+Note: Every page must have at least 5 original 'html comments' (see Module 2 videos). 
+
 Evaluation 20 pts 
 Design - 5 pts 
 1. Original creative and not template-driven, basic.
