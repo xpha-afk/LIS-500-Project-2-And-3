@@ -1,3 +1,5 @@
+/*MAIN CSS*/
+
 /*CSS for header and nav bar*/
 header {
     background-color: #fff;
@@ -5,39 +7,112 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000;
-  }
-  
-  nav {
+}
+
+nav {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 1rem;
-  }
-  
-  /* CSS for navigation bar links*/
-  nav ul {
+}
+
+/* CSS for navigation bar links*/
+nav ul {
     list-style: none;
     display: flex;
     gap: 2rem;
-  }
-  
-  nav ul li {
+}
+
+nav ul li {
     display: inline-block;
-  }
-  
-  nav ul li a {
+}
+
+nav ul li a {
     text-decoration: none;
     color: #333;
     font-size: 1rem;
     padding: 0.5rem 1rem;
     border-radius: 8px;
     transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  
-  /*Hover action to highlight word on nav bar*/
-  nav ul li a:hover {
+}
+
+/*Hover action to highlight word on nav bar*/
+nav ul li a:hover {
     background-color: #ff0000;
     color: #fff;
-  }
+}
+
+h1 {
+    text-align: center;
+}
+
+/*HOME PAGE*/
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.quote {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 40px 0;
+}
+
+.author {
+    font-size: 1.5em;
+    color: #555;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #ec0000;
+}
+
+/*ABOUT US & TECH HEROES PAGE*/
+
+.container2 {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.bio {
+    flex: 1;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    line-height: 1.6;
+    color: #555;
+}
+
+/*RESOURCE PAGE*/
