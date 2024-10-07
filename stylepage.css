@@ -163,10 +163,15 @@ th{
     margin-right: auto;
     padding-top: 20px;
     width: 50%;
+    text-align: center;
   }
 
 .emoji {
     font-size: 30px;
+}
+
+.emoji1 {
+    font-size: 20px;
 }
 
 /*FOOTER*/
