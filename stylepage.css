@@ -49,6 +49,12 @@ h1 {
 }
 
 /*HOME PAGE*/
+
+.home-header{
+    text-align: center;
+    background-color: #ffffff;
+}
+
 .container {
     max-width: 800px;
     margin: auto;
@@ -58,13 +64,18 @@ h1 {
 
 .quote {
     font-size: 2.5em;
-    font-weight: bold;
+    color:#000000;
     margin: 40px 0;
+    text-shadow: 1px 1px 2px gray;
+    display: inline;
+    background-color: #ffffff;
 }
 
 .author {
     font-size: 1.5em;
-    color: #555;
+    color: #000000;
+    text-shadow: 1px 1px 2px gray;
+    background-color: #ffffff;
 }
 
 .button {
@@ -79,6 +90,13 @@ h1 {
 
 .button:hover {
     background-color: #ec0000;
+}
+
+#homepage {
+    background-image: url(intersectionality.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 /*ABOUT US & TECH HEROES PAGE*/
@@ -116,3 +134,52 @@ p {
 }
 
 /*RESOURCE PAGE*/
+
+table {
+    border-collapse: collapse;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    display: flex;
+}
+
+td, th {
+    border: 3px solid;
+    text-align: center;
+    padding: 12px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+/*FOOTER*/
+
+footer {
+    background-color: #fff;
+    color: #333;
+    text-align: center;
+    padding: 1rem;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+    flex-wrap: wrap;
+}
+
+footer p {
+    margin: 0;
+}
